@@ -1,0 +1,125 @@
+---
+
+- taxonomy: 常用推荐
+  icon: far fa-star
+  links: 
+    - title: 语雀
+      logo: 语雀.webp
+      url: https://www.yuque.com/
+      description: 专业的云端知识库。
+    - title: QQ 邮箱
+      logo: qq邮箱.png
+      url: http://mail.qq.com/
+      description: 腾讯 QQ 邮箱。
+    - title: 开源中国
+      logo: 开源中国.jpg
+      url: https://www.oschina.net/
+      description: 中文开源技术交流社区。
+    - title: 公众号平台
+      logo: 微信公众号.png
+      url: https://mp.weixin.qq.com/
+      description: 再小的个体也有自己的品牌。
+    - title: GitHub
+      logo: github.png
+      url: https://github.com/
+      description: GitHub 开源社区。
+    - title: 搜狗微信
+      logo: 搜狗微信.jpg
+      url: https://weixin.sogou.com/
+      description: 搜狗微信搜索，一搜即达。
+    - title: 知乎
+      logo: 知乎.png
+      url: https://www.zhihu.com/
+      description: 知乎社区。
+    - title: V2EX
+      logo: v2ex.jpg
+      url: https://www.v2ex.com/
+      description: V2EX 创意工作者的社区。
+      
+- taxonomy: 大模型
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 国产大模型
+      links:
+        - title: DeepSeek
+          logo: deepseek.png
+          url: https://chat.deepseek.com/
+          description: 杭州深度求索人工智能基础技术研究有限公司推出的大模型。
+        - title: 通义千问
+          logo: tongyi.png
+          url: https://tongyi.aliyun.com/
+          description: 由阿里巴巴集团旗下的云端运算服务的科技公司阿里云开发的聊天机器人，能够与人交互、回答问题及协作创作。
+        - title: 豆包
+          logo: doubao.png
+          url: https://www.doubao.com/
+          description: 字节跳动旗下AI 智能助手。
+        - title: 文心一言
+          logo: yiyan.ico
+          url: https://yiyan.baidu.com/
+          description: 是百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动、回答问题、协助创作，高效便捷地帮助人们获取信息、知识和灵感。
+        - title: Kimi
+          logo: kimi.ico
+          url: https://kimi.moonshot.cn/
+          description: 是北京月之暗面科技有限公司于2023年10月9日推出的一款智能助手。
+        - title: 智谱清言
+          logo: zhipu.png
+          url: https://chatglm.cn
+          description: 是北京智谱华章科技有限公司推出的生成式AI助手，可在工作、学习和日常生活中为用户解答各类问题，完成各种任务。
+        - title: 百川大模型
+          logo: baichuan.png
+          url: https://www.baichuan-ai.com/
+          description: 百川大模型是百川智能的明星产品，它由搜狗创始人王小川创立。
+        - title: 讯飞星火
+          logo: xunfei.ico
+          url: https://xinghuo.xfyun.cn/
+          description: 是由科大讯飞推出的新一代认知智能大模型。
+        - title: 天工
+          logo: tiangong.ico
+          url: https://www.tiangong.cn/
+          description: 昆仑万维发布的国内第一款融入大语言模型的搜索引擎。
+        - title: 商汤商量
+          logo: shangliang.png
+          url: https://chat.sensetime.com/
+          description: ‘商量’是由商汤科技研发的一款基于自然语言处理技术的人工智能大语言模型。
+        - title: 腾讯混元大模型
+          logo: tencenthunyuan.png
+          url: https://hunyuan.tencent.com/
+          description: 腾讯混元大模型是由腾讯研发的大语言模型。
+        - title: 华为盘古大模型（需提前申请）
+          logo: pangu.png
+          url: https://www.huaweicloud.com/product/pangu.html
+          description: 盘古大模型是华为云推出的一种人工智能大模型。
+        - title: 360智脑
+          logo: 360zhinao.png
+          url: https://chat.360.com/
+          description: 360智脑是360自研认知型通用大模型。
+    - term: 国外大模型
+      links:
+        - title: chatGPT
+          logo: chatGPT.webp
+          url: https://chatgpt.com/
+          description: 是OpenAI开发的人工智能聊天机器人程序，于2022年12月推出。 
+        - title: Claude
+          logo: claude.png
+          url: https://claude.ai
+          description: Claude 是由Anthropic 打造的高性能、可信赖且智能的AI 平台。
+        - title: Gemini
+          logo: gemini.png
+          url: https://gemini.google.com/
+          description: 是由Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。
+        - title: 微软Copilot
+          logo: copilot.svg
+          url: https://www.bing.com/chat
+          description: 是一种基于大型语言模型（LLM）和微软图形（Microsoft Graph）的数据和人工智能（AI）辅助工具，它可以将用户的自然语言输入转化为高效的生产力工具。
+        - title: Meta的Llama
+          logo: meta.ico
+          url: https://llama.meta.com/llama2
+          description: 是Meta AI公司於2023年2月發布的大型語言模型。
+        - title: XAI的grok
+          logo: xai.png
+          url: https://x.ai
+          description: Grok是XAI基於大型語言模型開發的生成式人工智慧聊天機器人。
+        - title: Mistral AI
+          logo: mistral.png
+          url: https://mistral.ai/
+          description: 是一家成立于2023年4月的法国科技公司，开发使用大型语言模型技术的生成式人工智能。
