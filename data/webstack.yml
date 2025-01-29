@@ -35,6 +35,14 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
+    - title: CloudFlare
+      logo: cloudflare.png
+      url: https://dash.cloudflare.com/
+      description: 以向客户提供基于反向代理的内容分发网络（Content Delivery Network, CDN）及分布式域名解析服务（Distributed Domain Name Server）为主要业务。
+    - title: Gmail
+      logo: gmail.ico
+      url: https://mail.google.com/
+      description: 免费、私密且安全的电子邮件。
       
 - taxonomy: 大模型
   icon: fas fa-flask fa-lg
