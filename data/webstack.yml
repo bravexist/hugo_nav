@@ -137,7 +137,7 @@
           description: 是一家成立于2023年4月的法国科技公司，开发使用大型语言模型技术的生成式人工智能。
           
 - taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
+  icon: far fa-folder-open fa-lg
   list:
     - term: 云服务器
       links:
