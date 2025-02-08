@@ -199,3 +199,7 @@
           logo: StayFocused.svg
           url: https://stayfocused.bravexist.cn/
           description: 专注时钟 & 白噪音
+        - title: CyberChef
+          logo: CyberChef.ico
+          url: https://cyberchef.bravexist.cn/
+          description: 是一个强大的开源数据处理工具
