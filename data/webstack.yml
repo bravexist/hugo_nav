@@ -167,7 +167,35 @@
           logo: 谷歌翻译.jpg
           url: https://translate.google.com/
           description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
+          
+- taxonomy: 自建网站
+  icon: fas fa-tools fa-lg
+  list: 
+    - term: 文档类网站
+      links:
+        - title: linux-command
+          logo: linux-command.ico
+          url: https://linux-command.bravexist.cn/
+          description: 在线查询linux命令
+    - term: 工具类网站
+      links:
+        - title: 双重二维码生成器
+          logo: dualqrcode.svg
+          url: https://dualqrcode.bravexist.cn/
+          description: 在一个二维码中嵌入两个不同的网址
+        - title: images图床
+          logo: favicon.png
+          url: https://images.bravexist.cn/
+          description: 基于Cloudflare R2的图床
+        - title: moemail临时邮箱
+          logo: moemail.png
+          url: https://bravexist.eu.org/
+          description: 基于Cloudflare Worker的临时邮箱
+        - title: Cloudflare 临时邮件
+          logo: tempmail.png
+          url: https://mail.qiankong.eu.org/
+          description: 基于Cloudflare Worker的临时邮箱
+        - title: StayFocused
+          logo: StayFocused.svg
+          url: https://stayfocused.bravexist.cn/
+          description: 专注时钟 & 白噪音
