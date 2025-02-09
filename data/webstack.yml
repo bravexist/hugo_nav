@@ -153,7 +153,7 @@
           logo: 华为云.png
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。
-    - term: 办公学习
+    - term: 办公工具
       links:
         - title: 有道词典
           logo: 有道词典.png
@@ -167,7 +167,28 @@
           logo: 谷歌翻译.jpg
           url: https://translate.google.com/
           description: 谷歌翻译。
-          
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.com/
+          description: 谷歌翻译。
+    - term: 娱乐
+      links:
+        - title: 抖音
+          logo: douyin.png
+          url: https://www.douyin.com/
+          description: 非常流行的短视频平台
+    - term: 文档学习类网站
+      links:
+        - title: 廖雪峰的官方网站
+          logo: liaoxuefeng.ico
+          url: https://liaoxuefeng.com/
+          description: 廖雪峰的官方网站
+    - term: 科技杂志
+      links:
+        - title: 阮一峰的个人网站
+          logo: ruanyifeng.ico
+          url: https://www.ruanyifeng.com/
+          description: 阮一峰的个人网站
 - taxonomy: 自建网站
   icon: fas fa-tools fa-lg
   list: 
