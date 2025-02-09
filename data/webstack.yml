@@ -167,10 +167,6 @@
           logo: 谷歌翻译.jpg
           url: https://translate.google.com/
           description: 谷歌翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.com/
-          description: 谷歌翻译。
     - term: 娱乐
       links:
         - title: 抖音
