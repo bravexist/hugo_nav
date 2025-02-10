@@ -196,6 +196,10 @@
           description: 在线查询linux命令
     - term: 工具类网站
       links:
+        - title: 导航站
+          logo: favicon.png
+          url: https://nav.bravexist.cn/
+          description: 静态的导航站
         - title: 双重二维码生成器
           logo: dualqrcode.svg
           url: https://dualqrcode.bravexist.cn/
