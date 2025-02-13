@@ -224,3 +224,53 @@
           logo: CyberChef.ico
           url: https://cyberchef.bravexist.cn/
           description: 是一个强大的开源数据处理工具
+- taxonomy: 网络安全工具
+  icon: fas fa-pencil-alt fa-lg
+  list: 
+    - term: 网络空间测绘工具
+      links:
+        - title: FOFA
+          url: https://fofa.info/
+          logo: fofa.ico
+          description: FOFA 是白帽汇推出的一款网络空间搜索引擎，通过网络空间测绘帮助研究人员或企业进行资产匹配、漏洞影响范围分析、应用分布统计等。
+        - title: 鹰图
+          url: https://hunter.qianxin.com/
+          logo: hunter.ico
+          description: 鹰图平台由奇安信全球鹰推出，支持全球互联网资产搜集、未知资产发现、暴露面梳理及热点应用定位。
+        - title: ZoomEye
+          url: https://www.zoomeye.org/
+          logo: zoomeye.ico
+          description: ZoomEye 是国内知名的网络空间搜索引擎，由知道创宇开发，提供全球 IP、域名和设备信息的测绘服务。
+        - title: Shodan
+          url: https://www.shodan.io/
+          logo: shodan.ico
+          description: Shodan 是国际著名的网络空间搜索引擎，能搜索和识别互联网上各种联网设备，为安全研究和风险评估提供数据支持。
+        - title: Censys
+          url: https://censys.io/
+          logo: censys.ico
+          description: Censys 利用全球扫描数据构建互联网设备和服务的索引，帮助用户了解全球网络资产的整体分布情况。
+        - title: Spyse
+          url: https://spyse.com/
+          logo: spyse.ico
+          description: Spyse 是一款综合性的网络空间资产搜索引擎，整合域名、IP、漏洞等多维度数据，支持资产监控与风险分析。
+        - title: RiskIQ PassiveTotal
+          url: https://www.riskiq.com/
+          logo: riskiq.ico
+          description: RiskIQ PassiveTotal 提供全球网络安全情报和数字资产搜索服务，帮助企业识别潜在网络威胁和攻击面。
+        - title: SecurityTrails
+          url: https://securitytrails.com/
+          logo: securitytrails.ico
+          description: SecurityTrails 专注于域名、IP 和 DNS 数据搜索，为资产发现和网络安全风险评估提供有力支持。
+        - title: Netcraft
+          url: https://www.netcraft.com/
+          logo: netcraft.ico
+          description: Netcraft 提供网站和互联网基础设施数据监测，协助用户评估网站安全风险及资产分布情况。
+        - title: 360 Quake
+          url: https://quake.360.cn/quake/#/index
+          logo: quake.ico
+          description: 360 Quake 是360推出的网络空间测绘工具，支持全球 IP 资产的持续扫描，辅助漏洞影响评估和资产管理。
+        - title: TscanPlus
+          url: https://github.com/TideSec/Tscanplus
+          logo: tscanplus.ico
+          description: TscanPlus 是一款综合性网络安全检测工具，集成网络空间测绘、弱口令检测、目录扫描等功能，适用于企业安全运维。
+
