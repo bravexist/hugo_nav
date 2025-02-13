@@ -248,4 +248,10 @@
         - title: 360 Quake
           url: https://quake.360.cn/quake/#/index
           logo: quake.ico
-          description: 360, Quake, 网络安全, 360网络安全, 网络空间, 资产测绘, 网络空间测绘, 网络空间资产测绘, Quake网络空间资产测绘, 360网络空间资产测绘
+          description: 360, Quake, 网络安全, 360网络安全, 网络空间, 资产测绘, 网络空间测绘, 网络空间资产测绘, Quake网络空间资产测绘, 360网络空间资产测绘。
+    - term: 网络威胁情报平台
+      links:
+        - title: 微步在线
+          url: https://x.threatbook.com/
+          logo: threatbook.ico
+          description: 微步在线X情报社区是国内首个综合性威胁分析平台和威胁情报共享的开放社区，同时提供威胁情报查询、域名反查、IP反查，行业情报等服务，辅助个人及企业快速定位及排除安全隐患
