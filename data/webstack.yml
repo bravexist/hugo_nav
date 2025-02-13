@@ -224,10 +224,10 @@
           logo: CyberChef.ico
           url: https://cyberchef.bravexist.cn/
           description: 是一个强大的开源数据处理工具
-- taxonomy: 网络安全工具
+- taxonomy: 网络安全
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 网络空间测绘
+    - term: 空间测绘
       links:
         - title: FOFA
           url: https://fofa.info/
@@ -249,7 +249,7 @@
           url: https://quake.360.cn/quake/#/index
           logo: quake.ico
           description: 360, Quake, 网络安全, 360网络安全, 网络空间, 资产测绘, 网络空间测绘, 网络空间资产测绘, Quake网络空间资产测绘, 360网络空间资产测绘。
-    - term: 网络威胁情报
+    - term: 威胁情报
       links:
         - title: 微步在线
           url: https://x.threatbook.com/
