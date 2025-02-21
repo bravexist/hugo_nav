@@ -101,6 +101,26 @@
           logo: 360zhinao.png
           url: https://chat.360.com/
           description: 360智脑是360自研认知型通用大模型。
+        - title: 秘塔AI
+          logo: metaso.png
+          url: https://www.metaso.cn
+          description: 秘塔AI搜索，没有广告，直达结果
+        - title: 讯飞智文
+          logo: zhiwen.png
+          url: https://zhiwen.xfyun.cn
+          description: 讯飞智文，由科大讯飞推出的一键生成ppt/word产品。根据一句话、长文本、音视频等指令智能生成文档，同时支持在线编辑、美化、排版、导出、一键动效、自动生成演讲稿等功能，让AI全流程服务到底。
+        - title: 即梦
+          logo: jimeng.ico
+          url: https://jimeng.jianying.com/ai-tool/home/
+          description: 即梦AI - 一站式AI创作平台
+        - title: 星流
+          logo: xingliu.ico
+          url: https://www.xingliu.art/projects
+          description: 星流, AI绘画, AI生图, AI图片, AI绘图,免费,风格转换,图片衍生,局部重绘,拼贴重绘,高清放大,超清放大,去除背景,AI去除背景,智能去除背景,智能擦除
+        - title: 扣子
+          logo: coze.png
+          url: https://www.coze.cn
+          description: 扣子是新一代 AI 大模型智能体开发平台。整合了插件、长短期记忆、工作流、卡片等丰富能力，扣子能帮你低门槛、快速搭建个性化或具备商业价值的智能体，并发布到豆包、飞书等各个平台。
     - term: 国外大模型
       links:
         - title: chatGPT
