@@ -113,10 +113,14 @@
           logo: jimeng.ico
           url: https://jimeng.jianying.com/ai-tool/home/
           description: 即梦AI - 一站式AI创作平台
-        - title: 星流
+        - title: 星流https://yuewen.cn/chats/new
           logo: xingliu.ico
           url: https://www.xingliu.art/projects
           description: 星流, AI绘画, AI生图, AI图片, AI绘图,免费,风格转换,图片衍生,局部重绘,拼贴重绘,高清放大,超清放大,去除背景,AI去除背景,智能去除背景,智能擦除
+        - title: 跃问
+          logo: yuewen.png
+          url: https://yuewen.cn/chats/new
+          description: 跃问是一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。跃问，带你发现和理解世界~
         - title: 扣子
           logo: coze.png
           url: https://www.coze.cn
